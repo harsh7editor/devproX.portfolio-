@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7001],{20186:(_,e,n)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/project-universe-portfolio/components/ProjectCard",function(){return n(26329)}])}},_=>{var e=e=>_(_.s=e);_.O(0,[1791,576,2172,7421,6329,636,6593,8792],()=>e(20186)),_N_E=_.O()}]);

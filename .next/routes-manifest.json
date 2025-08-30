@@ -1,0 +1,211 @@
+{
+  "version": 3,
+  "pages404": true,
+  "caseSensitive": false,
+  "basePath": "",
+  "redirects": [
+    {
+      "source": "/:path+/",
+      "destination": "/:path+",
+      "internal": true,
+      "statusCode": 308,
+      "regex": "^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$"
+    }
+  ],
+  "headers": [],
+  "dynamicRoutes": [],
+  "staticRoutes": [
+    {
+      "page": "/NotFound",
+      "regex": "^/NotFound(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/NotFound(?:/)?$"
+    },
+    {
+      "page": "/coding-achievements-arena",
+      "regex": "^/coding\\-achievements\\-arena(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/coding\\-achievements\\-arena(?:/)?$"
+    },
+    {
+      "page": "/coding-achievements-arena/components/AchievementBadge",
+      "regex": "^/coding\\-achievements\\-arena/components/AchievementBadge(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/coding\\-achievements\\-arena/components/AchievementBadge(?:/)?$"
+    },
+    {
+      "page": "/coding-achievements-arena/components/ContestHistory",
+      "regex": "^/coding\\-achievements\\-arena/components/ContestHistory(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/coding\\-achievements\\-arena/components/ContestHistory(?:/)?$"
+    },
+    {
+      "page": "/coding-achievements-arena/components/FeaturedSolution",
+      "regex": "^/coding\\-achievements\\-arena/components/FeaturedSolution(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/coding\\-achievements\\-arena/components/FeaturedSolution(?:/)?$"
+    },
+    {
+      "page": "/coding-achievements-arena/components/PlatformCard",
+      "regex": "^/coding\\-achievements\\-arena/components/PlatformCard(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/coding\\-achievements\\-arena/components/PlatformCard(?:/)?$"
+    },
+    {
+      "page": "/coding-achievements-arena/components/ProblemsCounter",
+      "regex": "^/coding\\-achievements\\-arena/components/ProblemsCounter(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/coding\\-achievements\\-arena/components/ProblemsCounter(?:/)?$"
+    },
+    {
+      "page": "/coding-achievements-arena/components/SolvingChart",
+      "regex": "^/coding\\-achievements\\-arena/components/SolvingChart(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/coding\\-achievements\\-arena/components/SolvingChart(?:/)?$"
+    },
+    {
+      "page": "/dynamic-homepage-dashboard",
+      "regex": "^/dynamic\\-homepage\\-dashboard(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/dynamic\\-homepage\\-dashboard(?:/)?$"
+    },
+    {
+      "page": "/dynamic-homepage-dashboard/components/ActivityFeed",
+      "regex": "^/dynamic\\-homepage\\-dashboard/components/ActivityFeed(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/dynamic\\-homepage\\-dashboard/components/ActivityFeed(?:/)?$"
+    },
+    {
+      "page": "/dynamic-homepage-dashboard/components/CertificationCarousel",
+      "regex": "^/dynamic\\-homepage\\-dashboard/components/CertificationCarousel(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/dynamic\\-homepage\\-dashboard/components/CertificationCarousel(?:/)?$"
+    },
+    {
+      "page": "/dynamic-homepage-dashboard/components/CodingAchievements",
+      "regex": "^/dynamic\\-homepage\\-dashboard/components/CodingAchievements(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/dynamic\\-homepage\\-dashboard/components/CodingAchievements(?:/)?$"
+    },
+    {
+      "page": "/dynamic-homepage-dashboard/components/ContactSection",
+      "regex": "^/dynamic\\-homepage\\-dashboard/components/ContactSection(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/dynamic\\-homepage\\-dashboard/components/ContactSection(?:/)?$"
+    },
+    {
+      "page": "/dynamic-homepage-dashboard/components/FeaturedProjects",
+      "regex": "^/dynamic\\-homepage\\-dashboard/components/FeaturedProjects(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/dynamic\\-homepage\\-dashboard/components/FeaturedProjects(?:/)?$"
+    },
+    {
+      "page": "/dynamic-homepage-dashboard/components/HeroSection",
+      "regex": "^/dynamic\\-homepage\\-dashboard/components/HeroSection(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/dynamic\\-homepage\\-dashboard/components/HeroSection(?:/)?$"
+    },
+    {
+      "page": "/dynamic-homepage-dashboard/components/MetricsCard",
+      "regex": "^/dynamic\\-homepage\\-dashboard/components/MetricsCard(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/dynamic\\-homepage\\-dashboard/components/MetricsCard(?:/)?$"
+    },
+    {
+      "page": "/dynamic-homepage-dashboard/components/SkillsRadar",
+      "regex": "^/dynamic\\-homepage\\-dashboard/components/SkillsRadar(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/dynamic\\-homepage\\-dashboard/components/SkillsRadar(?:/)?$"
+    },
+    {
+      "page": "/professional-journey-timeline",
+      "regex": "^/professional\\-journey\\-timeline(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/professional\\-journey\\-timeline(?:/)?$"
+    },
+    {
+      "page": "/professional-journey-timeline/components/CareerStats",
+      "regex": "^/professional\\-journey\\-timeline/components/CareerStats(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/professional\\-journey\\-timeline/components/CareerStats(?:/)?$"
+    },
+    {
+      "page": "/professional-journey-timeline/components/FilterTabs",
+      "regex": "^/professional\\-journey\\-timeline/components/FilterTabs(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/professional\\-journey\\-timeline/components/FilterTabs(?:/)?$"
+    },
+    {
+      "page": "/professional-journey-timeline/components/SkillsEvolution",
+      "regex": "^/professional\\-journey\\-timeline/components/SkillsEvolution(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/professional\\-journey\\-timeline/components/SkillsEvolution(?:/)?$"
+    },
+    {
+      "page": "/professional-journey-timeline/components/TimelineHeader",
+      "regex": "^/professional\\-journey\\-timeline/components/TimelineHeader(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/professional\\-journey\\-timeline/components/TimelineHeader(?:/)?$"
+    },
+    {
+      "page": "/professional-journey-timeline/components/TimelineNode",
+      "regex": "^/professional\\-journey\\-timeline/components/TimelineNode(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/professional\\-journey\\-timeline/components/TimelineNode(?:/)?$"
+    },
+    {
+      "page": "/project-universe-portfolio",
+      "regex": "^/project\\-universe\\-portfolio(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/project\\-universe\\-portfolio(?:/)?$"
+    },
+    {
+      "page": "/project-universe-portfolio/components/FilterBar",
+      "regex": "^/project\\-universe\\-portfolio/components/FilterBar(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/project\\-universe\\-portfolio/components/FilterBar(?:/)?$"
+    },
+    {
+      "page": "/project-universe-portfolio/components/MobileProjectCarousel",
+      "regex": "^/project\\-universe\\-portfolio/components/MobileProjectCarousel(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/project\\-universe\\-portfolio/components/MobileProjectCarousel(?:/)?$"
+    },
+    {
+      "page": "/project-universe-portfolio/components/ProjectCard",
+      "regex": "^/project\\-universe\\-portfolio/components/ProjectCard(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/project\\-universe\\-portfolio/components/ProjectCard(?:/)?$"
+    },
+    {
+      "page": "/project-universe-portfolio/components/ProjectGrid",
+      "regex": "^/project\\-universe\\-portfolio/components/ProjectGrid(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/project\\-universe\\-portfolio/components/ProjectGrid(?:/)?$"
+    },
+    {
+      "page": "/project-universe-portfolio/components/ProjectModal",
+      "regex": "^/project\\-universe\\-portfolio/components/ProjectModal(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/project\\-universe\\-portfolio/components/ProjectModal(?:/)?$"
+    }
+  ],
+  "dataRoutes": [],
+  "rsc": {
+    "header": "RSC",
+    "varyHeader": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch",
+    "prefetchHeader": "Next-Router-Prefetch",
+    "didPostponeHeader": "x-nextjs-postponed",
+    "contentTypeHeader": "text/x-component",
+    "suffix": ".rsc",
+    "prefetchSuffix": ".prefetch.rsc",
+    "prefetchSegmentHeader": "Next-Router-Segment-Prefetch",
+    "prefetchSegmentSuffix": ".segment.rsc",
+    "prefetchSegmentDirSuffix": ".segments"
+  },
+  "rewriteHeaders": {
+    "pathHeader": "x-nextjs-rewritten-path",
+    "queryHeader": "x-nextjs-rewritten-query"
+  },
+  "rewrites": []
+}
